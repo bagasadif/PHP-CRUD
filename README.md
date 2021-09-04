@@ -1,5 +1,5 @@
 # PHP-CRUD
-CRUD web application using PHP with no frameworks
+Aplikasi web CRUD menggunakan PHP dengan tidak memakai framework PHP apapun
 
-## Tech Stack
+## Teknologi
 PHP 7
